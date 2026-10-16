@@ -1,0 +1,9 @@
+{
+  "name": "panelsync",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix server install && npm --prefix client install && npm --prefix client run build",
+    "start": "node server/src/index.js",
+    "test": "npm --prefix server test"
+  }
+}

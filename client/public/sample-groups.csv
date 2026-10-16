@@ -1,0 +1,14 @@
+groupNo,title,mentorName,mentorEmail,studentId,studentName,studentEmail
+1,Smart Attendance using Face Recognition,Dr. Kavita Rao,kavita.rao@example.edu,22CS1001,Ananya Sharma,ananya.sharma@example.edu
+1,,,,22CS1002,Rohit Verma,rohit.verma@example.edu
+1,,,,22CS1003,Meera Nair,meera.nair@example.edu
+2,Campus Lost and Found Portal,Dr. Kavita Rao,kavita.rao@example.edu,22CS1004,Imran Khan,imran.khan@example.edu
+2,,,,22CS1005,Sneha Reddy,sneha.reddy@example.edu
+3,Crop Disease Detection from Leaf Images,Prof. Arjun Mehta,arjun.mehta@example.edu,22CS1006,Vikram Singh,vikram.singh@example.edu
+3,,,,22CS1007,Pooja Iyer,pooja.iyer@example.edu
+4,Hostel Mess Feedback Analyser,Prof. Arjun Mehta,arjun.mehta@example.edu,22CS1008,Farhan Ali,farhan.ali@example.edu
+4,,,,22CS1009,Divya Menon,divya.menon@example.edu
+5,Library Seat Booking System,Dr. Sunita Joshi,sunita.joshi@example.edu,22CS1010,Karthik Raj,karthik.raj@example.edu
+5,,,,22CS1011,Nisha Patel,nisha.patel@example.edu
+6,Bus Route Tracker for College Transport,Dr. Sunita Joshi,sunita.joshi@example.edu,22CS1012,Aditya Kulkarni,aditya.kulkarni@example.edu
+6,,,,22CS1013,Tanvi Deshmukh,tanvi.deshmukh@example.edu
